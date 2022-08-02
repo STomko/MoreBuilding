@@ -6,5 +6,6 @@
 
     <!-- This is the folder where your build gets copied to when using the post-build automations -->
     <MOD_DEPLOYPATH>$(D:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins</MOD_DEPLOYPATH>
+	<VALHEIM_INSTALL>$(D:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins</VALHEIM_INSTALL>
   </PropertyGroup>
 </Project>
